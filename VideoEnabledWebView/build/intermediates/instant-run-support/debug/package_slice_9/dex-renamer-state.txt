@@ -1,0 +1,4 @@
+#Sat Dec 16 11:30:51 CET 2017
+base.0=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

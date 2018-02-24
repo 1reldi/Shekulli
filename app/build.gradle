@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+
+
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "criminalintent.android.bignerdranch.com.criminalintent"
+        manifestPlaceholders = [onesignal_app_id               : "abbc9591-227f-4b3d-b1fd-63d084a00c7d",
+                                // Project number pulled from dashboard, local value is ignored.
+                                onesignal_google_project_number: "789244248920"]
+
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        // Enabling multidex support.
+        multiDexEnabled true
+
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/spring.tooling'
+        exclude 'META-INF/spring.handlers'
+        exclude 'META-INF/spring.schemas'
+        exclude 'Aspects14.class'
+    }
+
+    configurations {
+        all*.exclude module: 'aspects'
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g" //specify the heap size for the dex process
+        preDexLibraries = false //delete the already predexed libraries
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    // Required for OneSignal, even if you have added FCM.
+    // Required for geotagging
+    // play-services-analytics is only needed when using 8.1.0 or older.
+    // compile 'com.google.android.gms:play-services-analytics:+'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:support-v4:23.0.1'
+    compile 'com.android.support:recyclerview-v7:25.0.0'
+    compile 'it.sephiroth.android.library.picasso:picasso:2.5.2.4b'
+    compile 'com.android.support:design:25.0.0'
+    compile 'com.onesignal:OneSignal:3.+@aar'
+    compile 'com.google.android.gms:play-services-gcm:11.0.2'
+    compile 'com.google.android.gms:play-services-location:11.0.2'
+    compile 'eu.the4thfloor.volley:com.android.volley:2015.05.28'
+    compile 'com.google.code.gson:gson:2.8.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:support-annotations:26.0.0-alpha1'
+    compile project(':fullscreenvideoview')
+}
+
+
+

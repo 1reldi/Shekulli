@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    tools:context=".VideoTActivity">
+
+    <!--com.github.rtoshiro.view.video.FullscreenVideoLayout
+        android:id="@+id/videoview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" /-->
+
+    <!-- View that will be hidden when video goes fullscreen -->
+    <RelativeLayout
+        android:id="@+id/nonVideoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <criminalintent.android.bignerdranch.com.criminalintent.VideoEnabledWebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+    <!-- View where the video will be shown when video goes fullscreen -->
+    <RelativeLayout
+        android:id="@+id/videoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
+<!--RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+    android:background="#000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VideoTActivity">
+
+    <VideoView
+        android:id="@+id/VideoViewPost"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+
+    <VideoView  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+
+    <WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+        >
+
+    <RelativeLayout
+        android:id="@+id/nonVideoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <criminalintent.android.bignerdranch.com.criminalintent.VideoEnabledWebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout/-->

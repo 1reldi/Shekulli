@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] /home/reldi/.android/build-cache/6ea0f69f033da0d241db41771d486b2823bd1d2b/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:12:9-40
+activity#name.cpr.ExampleActivity
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:18:13-74
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:16:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.0.0] /home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] /home/reldi/.android/build-cache/6ea0f69f033da0d241db41771d486b2823bd1d2b/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/src/main/AndroidManifest.xml

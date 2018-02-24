@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36381306ba5be935cd6dfd2f56e41dd768b8f69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/.android/build-cache/3def14c50ac80322b0e7e0348cba76c0931991d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10/classes_243aceaae23b26fa87e30b3ecc132d155f844773/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b94c959c16c4ed2ca67d39d641d15c243d0c514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cf8f13d470972c00ecb19ebacb8780a2d151111">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_819878808b02dcb090d95d25ad55c38f92fe43f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/.android/build-cache/8c61dee0b80e99bec5d93d757865b543f322fb8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69819368176ce93f5c1a6fa1f3ff3cde8c453e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9fe2eacecf701492faf971880d5bf3b19ac3d1">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a0b7a44542bef93bdd734337e8d0280c81e47bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_fc44d1d1541704b47bbeea3fba5e3436bd0ad069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_820e336f98220e3cf423efe15184813af617b8a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/.android/build-cache/c957186794cd5b67d75c629574ff56609745e32d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5a714e8f8fd0cd150ddf820389d4d3d2a791b88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/.android/build-cache/8c61dee0b80e99bec5d93d757865b543f322fb8d/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7b9f623e5789965cfd781063c4a1e1136f9cadb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27f0c423d65b34623655c22ef3f6f5028853b824">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cbd4ca96a1c1d4aa2fceacfa6700e210c21fe134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/.android/build-cache/3def14c50ac80322b0e7e0348cba76c0931991d6/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/fvvapplication/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6c4503826eb0825505378de953e959e21ff4388c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6af5fcdcaeeedd5ec49c390d62370bb522677bc7">
+        <dex dex="/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b872e992c0bfa21546eff4dd990415525d8b3607/classes.dex" />
+    </item>
+
+</items>

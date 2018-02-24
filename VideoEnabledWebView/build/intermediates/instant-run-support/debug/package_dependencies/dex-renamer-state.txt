@@ -1,0 +1,13 @@
+#Sat Dec 16 11:30:51 CET 2017
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.3=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_d359ef185820c520a5e3b6bb6a88359de6358e39
+base.2=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_84e4b09552c52fc3dd0166fd2499127464ad1f23
+base.1=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dba267d228bbec2de807d9b5f894b5cd28522540
+base.0=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7ff67de6cdc0ccbf28cdef86489e9827989e30b
+file.3=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_d359ef185820c520a5e3b6bb6a88359de6358e39/classes.dex
+file.2=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_84e4b09552c52fc3dd0166fd2499127464ad1f23/classes.dex
+file.1=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dba267d228bbec2de807d9b5f894b5cd28522540/classes.dex
+file.0=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7ff67de6cdc0ccbf28cdef86489e9827989e30b/classes.dex

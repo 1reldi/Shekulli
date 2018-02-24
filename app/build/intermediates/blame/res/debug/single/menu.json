@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/menu/post_menu.xml",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/menu/post_menu.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/menu/category_menu.xml",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/menu/category_menu.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/menu/fragment_activity_menu.xml",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/menu/fragment_activity_menu.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/menu/fb_comments.xml",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/menu/fb_comments.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/menu/menu_main1.xml",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/menu/menu_main1.xml"
+    }
+]

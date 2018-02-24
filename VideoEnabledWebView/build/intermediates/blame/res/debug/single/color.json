@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/reldi/Downloads/VideoEnabledWebView-master/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/reldi/.android/build-cache/94a5a8e62023c9636f5865ecb3f174e7ca235388/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

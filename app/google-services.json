@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "664370111384",
+    "project_id": "firebase-myshe"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664370111384:android:7325208a0f6f5dad",
+        "android_client_info": {
+          "package_name": "criminalintent.android.bignerdranch.com.criminalintent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqV8dK0IMZAlcHAU9jDIUW0fJXu7z10No"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

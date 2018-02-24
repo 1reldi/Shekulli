@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/layout-v21/notification_action.xml"
+    }
+]

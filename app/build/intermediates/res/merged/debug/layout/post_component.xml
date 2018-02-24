@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:layout_marginRight="7dp"
+
+                android:layout_marginBottom="4dp"
+                android:paddingBottom="0dp"
+                android:background="#FFFFFF">
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+               android:id="@+id/post_header_photo"
+               android:layout_alignParentTop="true"
+               android:layout_alignParentStart="true"
+
+               android:layout_height="200dp"
+               android:layout_width="match_parent"/>
+
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:typeface="serif"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_below="@+id/post_header_photo"
+        android:textSize="22dp"
+        android:id="@+id/Post_View_Title"
+        tools:text="People Are Relating To This Hilarious Mom-Daughter Conversation About Their Cat"/>
+
+    <TextView
+        android:id="@+id/Post_Date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Post_View_Title"
+        android:textSize="12dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#585858"
+        tools:text=" Publikuar me: "/>
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+               android:layout_marginTop="10dp"
+               android:id="@+id/post_advertisment1"
+               android:layout_below="@id/Post_Date"
+               android:layout_centerHorizontal="true"
+               android:layout_height="50dp"
+               android:layout_width="320dp"/>
+
+    <TextView
+        android:text="Politikani dhe botuesi Koço Kokëdhima, i ftuar në emisionin “Studio e Hapur” e Eni Vasilit, njoftoi mbrëmë nisjen e një lëvizjeje politike brenda Partisë Socialiste për ta demokratizuar, reformuar dhe fuqizuar atë. “Unë kam për të zhvilluar një lëvizje brenda Partisë Socialiste, që synon reformimin e PS-së dhe të arrihet që çdo anëtar të votojë”- tha ai. Intervista e Kokëdhimës nisi me jehonën në Shqipëri të fitores së kandidatit republikan në SHBA, Donald Trump, tashmë president i zgjedhur dhe leksioni që dha triumfi i tij, i vetëm përballë establishmetit polilitik dhe duke mbështetur qytetarët e papërfaqësuar. Fitorja e Trumpit  Kokëdhima shpjegoi disa nga arsyet se pse ka besuar në fitoren e Donald Trump si president i Shteteve të Bashkuara të Amerikës. “E kam ndjekur presidentin e zgjedhur Donald Trump shumë vite më përpara dhe kam qenë i sigurt për vlerat e jashtëzakonshme të këtij njeriu."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Post_Content"
+        android:layout_below="@id/post_advertisment1"
+        android:layout_marginTop="10dp"
+        android:textColor="#848484"
+        android:textSize="17dp"
+        />
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+               android:layout_marginTop="10dp"
+               android:id="@+id/post_advertisment2"
+               android:layout_below="@id/Post_Content"
+               android:layout_centerHorizontal="true"
+               android:layout_height="50dp"
+               android:layout_width="320dp"/>
+</RelativeLayout>

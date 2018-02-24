@@ -1,0 +1,7 @@
+#Sat Dec 16 11:30:52 CET 2017
+base.0=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36381306ba5be935cd6dfd2f56e41dd768b8f69c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a0b7a44542bef93bdd734337e8d0280c81e47bb/classes.dex
+base.1=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a0b7a44542bef93bdd734337e8d0280c81e47bb
+file.0=/home/reldi/Desktop/OLD/C/V1.test.she - 23/VideoEnabledWebView/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36381306ba5be935cd6dfd2f56e41dd768b8f69c/classes.dex

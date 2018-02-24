@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id = "@+id/connection_avaiable_layout" >
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:id="@+id/swipe_refresh">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/fragment_photo_gallery_recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#F2F2F2"/>
+        </android.support.v4.widget.SwipeRefreshLayout>
+    </LinearLayout>
+
+    <RelativeLayout android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:id = "@+id/no_internet_layout"
+                    android:visibility="gone"
+                    android:layout_gravity="center"
+        >
+
+
+        <TextView android:layout_height="wrap_content"
+                  android:layout_width="wrap_content"
+                  android:text="no_internet_connection_available"
+                  android:gravity="center"
+                  android:layout_centerVertical="true"
+                  android:layout_centerHorizontal="true"
+                  android:focusable="true"
+                  android:id="@+id/no_internet"
+                  android:layout_marginBottom="10dp"/>
+
+        <Button android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_below="@id/no_internet"
+                android:text="Retry"
+                android:id = "@+id/reload_button"
+                android:layout_centerHorizontal="true"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

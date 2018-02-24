@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/reldi/.android/build-cache/42f1b91e50e85cb20826c74411f2aaf4fde247f1/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

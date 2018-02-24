@@ -1,0 +1,408 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:3:5-69
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /home/reldi/.android/build-cache/ddbb23c54c46e2de9a2896c51f94a05540dde137/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /home/reldi/.android/build-cache/fb996b626c89a2c742bd33e17a44cf60b68a9098/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:7:5-88
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:7:22-85
+permission#com.bignerdranch.android.photogallery.PRIVATE
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:14:5-16:47
+	android:protectionLevel
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:15:9-69
+permission#com.bignerdranch.android.photogallery.PRIVATE_RESTART
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:17:5-19:47
+	android:protectionLevel
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:18:9-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:25:5-81
+MERGED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#com.bignerdranch.android.photogallery.PRIVATE
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:26:5-85
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:26:22-82
+uses-permission#com.bignerdranch.android.photogallery.PRIVATE_RESTART
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:27:5-93
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:27:22-90
+application
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:30:5-80:19
+MERGED from [it.sephiroth.android.library.picasso:picasso:2.5.2.4b] /home/reldi/.android/build-cache/d29678bb27c149b95b09da14f42141ffa8c79acd/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.0.0] /home/reldi/.android/build-cache/42f1b91e50e85cb20826c74411f2aaf4fde247f1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/reldi/.android/build-cache/acd1c6b0495ee434e67bcf1e34e7eab92c0f4ada/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/reldi/.android/build-cache/f7a4e1187e0f605c152464c799e86c4a622cb11a/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] /home/reldi/.android/build-cache/784162f3e49fa4d2c3f10b7390ed7e81502c7db6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:49:5-104:19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /home/reldi/.android/build-cache/ddbb23c54c46e2de9a2896c51f94a05540dde137/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /home/reldi/.android/build-cache/fb996b626c89a2c742bd33e17a44cf60b68a9098/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /home/reldi/.android/build-cache/f93c6e947688d8f5fb197f13bd7496f675c3f86b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/reldi/.android/build-cache/08eb9b205c8f0364df979bb1bcefdca454449865/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/reldi/.android/build-cache/3fb8991d15db5fa7a4a4bd82a06ddae2fdb5a0a0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/reldi/.android/build-cache/6caa82cc62b1cd1d033138235d8a5102578ee6ef/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/reldi/.android/build-cache/b36b01beb2c011a505bb132dc82055a2859f03b5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/reldi/.android/build-cache/311466b7d4ff8a0e63cdffec374327d9c06e3d7a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/reldi/.android/build-cache/ec5c37877266c2510040928db15aba0b1f0a52e4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/reldi/.android/build-cache/9804889bc186eb00205699892d72f75a17c3e53a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/reldi/.android/build-cache/93bb93039fafcbade2a45020e51f225f5680fa51/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/reldi/.android/build-cache/ad2bcf2e1585fba58ac99ff41476d1b754c91740/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/reldi/.android/build-cache/97a2eb0cb1f80e4f06146463242e731aa4e780d7/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:34:9-41
+	android:supportsRtl
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:35:9-35
+	android:hardwareAccelerated
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:36:9-43
+	android:allowBackup
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:33:9-54
+	android:theme
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:37:9-40
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:31:9-38
+meta-data#com.onesignal.NotificationOpened.DEFAULT
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:38:9-40:39
+	android:value
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:39:13-68
+service#criminalintent.android.bignerdranch.com.criminalintent.NotificationExtenderBareBonesExample
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:42:9-48:19
+	android:exported
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:43:13-65
+intent-filter#com.onesignal.NotificationExtender
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:45:13-47:29
+action#com.onesignal.NotificationExtender
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:46:25-74
+activity#criminalintent.android.bignerdranch.com.criminalintent.SplashScreen
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:51:9-60:20
+	android:screenOrientation
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:53:13-49
+	android:theme
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:52:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:58:27-74
+activity#criminalintent.android.bignerdranch.com.criminalintent.MainActivity
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:61:9-59
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:61:19-47
+activity#criminalintent.android.bignerdranch.com.criminalintent.PostActivity
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:62:9-65:66
+	android:label
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:64:13-29
+	android:theme
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:65:13-54
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:63:13-41
+activity#criminalintent.android.bignerdranch.com.criminalintent.VideoTActivity
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:66:9-71:66
+	android:label
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:68:13-33
+	android:hardwareAccelerated
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:70:13-47
+	android:configChanges
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:69:13-74
+	android:theme
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:71:13-54
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:67:13-43
+activity#criminalintent.android.bignerdranch.com.criminalintent.CategoryActivity
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:72:9-74:67
+	android:parentActivityName
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:74:13-55
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:73:13-45
+activity#criminalintent.android.bignerdranch.com.criminalintent.No_Net
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:75:9-53
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:75:19-41
+activity#criminalintent.android.bignerdranch.com.criminalintent.FbCommentsActivity
+ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:76:9-79:75
+	android:label
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:79:13-63
+	android:theme
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:78:13-38
+	android:name
+		ADDED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml:77:13-47
+uses-sdk
+INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [it.sephiroth.android.library.picasso:picasso:2.5.2.4b] /home/reldi/.android/build-cache/d29678bb27c149b95b09da14f42141ffa8c79acd/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.0] /home/reldi/.android/build-cache/42f1b91e50e85cb20826c74411f2aaf4fde247f1/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/reldi/.android/build-cache/ad1ec1eb55157eb1896f72df20460118762d907d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/reldi/.android/build-cache/acd1c6b0495ee434e67bcf1e34e7eab92c0f4ada/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/reldi/.android/build-cache/f7a4e1187e0f605c152464c799e86c4a622cb11a/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /home/reldi/.android/build-cache/38f5398a1ed8e9ad2c0210a540263733aa19988e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] /home/reldi/.android/build-cache/784162f3e49fa4d2c3f10b7390ed7e81502c7db6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /home/reldi/.android/build-cache/ddbb23c54c46e2de9a2896c51f94a05540dde137/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /home/reldi/.android/build-cache/fb996b626c89a2c742bd33e17a44cf60b68a9098/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /home/reldi/.android/build-cache/f93c6e947688d8f5fb197f13bd7496f675c3f86b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/reldi/.android/build-cache/08eb9b205c8f0364df979bb1bcefdca454449865/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/reldi/.android/build-cache/3fb8991d15db5fa7a4a4bd82a06ddae2fdb5a0a0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/reldi/.android/build-cache/6caa82cc62b1cd1d033138235d8a5102578ee6ef/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/reldi/.android/build-cache/b36b01beb2c011a505bb132dc82055a2859f03b5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/reldi/.android/build-cache/311466b7d4ff8a0e63cdffec374327d9c06e3d7a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/reldi/.android/build-cache/ec5c37877266c2510040928db15aba0b1f0a52e4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/reldi/.android/build-cache/9804889bc186eb00205699892d72f75a17c3e53a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/reldi/.android/build-cache/93bb93039fafcbade2a45020e51f225f5680fa51/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/reldi/.android/build-cache/ad2bcf2e1585fba58ac99ff41476d1b754c91740/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/reldi/.android/build-cache/97a2eb0cb1f80e4f06146463242e731aa4e780d7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [V1.test.she - 23:fullscreenvideoview:unspecified] /home/reldi/Desktop/OLD/C/V1.test.she - 23/fullscreenvideoview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] /home/reldi/.android/build-cache/42f1b91e50e85cb20826c74411f2aaf4fde247f1/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/AndroidManifest.xml
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:9:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:18:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /home/reldi/.android/build-cache/ddbb23c54c46e2de9a2896c51f94a05540dde137/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /home/reldi/.android/build-cache/fb996b626c89a2c742bd33e17a44cf60b68a9098/output/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:24:22-63
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:50:9-52:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:59:13-62
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:63:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:64:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:66:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:73:13-61
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:76:13-56
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:79:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:81:9-83:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:83:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:82:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:84:9-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:84:18-58
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:86:9-88:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:88:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:87:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:90:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:90:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:92:9-98:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:92:19-62
+intent-filter#android.intent.action.ACTION_BOOT_COMPLETED+android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:93:13-97:29
+action#android.intent.action.ACTION_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:94:17-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:94:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:95:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:95:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:96:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:96:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:99:9-103:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:99:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:100:13-102:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:101:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.7.1] /home/reldi/.android/build-cache/97790c40af25ab59e40e4273a63ce8baf0215f65/output/AndroidManifest.xml:101:25-81
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/reldi/.android/build-cache/08eb9b205c8f0364df979bb1bcefdca454449865/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/reldi/.android/build-cache/08eb9b205c8f0364df979bb1bcefdca454449865/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/reldi/.android/build-cache/08eb9b205c8f0364df979bb1bcefdca454449865/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/reldi/.android/build-cache/08eb9b205c8f0364df979bb1bcefdca454449865/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/reldi/.android/build-cache/6caa82cc62b1cd1d033138235d8a5102578ee6ef/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/reldi/.android/build-cache/6caa82cc62b1cd1d033138235d8a5102578ee6ef/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/reldi/.android/build-cache/6caa82cc62b1cd1d033138235d8a5102578ee6ef/output/AndroidManifest.xml:20:20-65

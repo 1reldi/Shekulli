@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="criminalintent.android.bignerdranch.com.criminalintent"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+
+    <!--
+        permission
+        android:name="com.android.criminalintent.pn.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" /
+    -->
+    <permission
+        android:name="com.bignerdranch.android.photogallery.PRIVATE"
+        android:protectionLevel="signature" />
+    <permission
+        android:name="com.bignerdranch.android.photogallery.PRIVATE_RESTART"
+        android:protectionLevel="signature" />
+    <!--
+        -permission
+        android:name="com.android.criminalintent.pn.permission.C2D_MESSAGE" /
+    -->
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.bignerdranch.android.photogallery.PRIVATE" />
+    <uses-permission android:name="com.bignerdranch.android.photogallery.PRIVATE_RESTART" />
+
+    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+    <permission
+        android:name="criminalintent.android.bignerdranch.com.criminalintent.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="criminalintent.android.bignerdranch.com.criminalintent.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Required, makes sure notifications are delivered on time. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!--
+ Required so the device vibrates on receiving a push notification.
+         Vibration settings of the device still apply.
+    -->
+    <uses-permission android:name="android.permission.VIBRATE" /> <!-- START: ShortcutBadger -->
+    <!-- Samsung -->
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" /> <!-- android:name="android.support.multidex.MultiDexApplication" -->
+    <application
+        android:name="criminalintent.android.bignerdranch.com.criminalintent.MyApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/logoportokallishekulli"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.onesignal.NotificationOpened.DEFAULT"
+            android:value="DISABLE" />
+
+        <service
+            android:name="criminalintent.android.bignerdranch.com.criminalintent.NotificationExtenderBareBonesExample"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.onesignal.NotificationExtender" />
+            </intent-filter>
+        </service>
+
+        <!-- Splash screen -->
+        <activity
+            android:name="criminalintent.android.bignerdranch.com.criminalintent.SplashScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="criminalintent.android.bignerdranch.com.criminalintent.MainActivity" />
+        <activity
+            android:name="criminalintent.android.bignerdranch.com.criminalintent.PostActivity"
+            android:label=""
+            android:theme="@style/AppTheme.post_menu" />
+        <activity
+            android:name="criminalintent.android.bignerdranch.com.criminalintent.VideoTActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:label="POST"
+            android:theme="@style/AppTheme.post_menu" />
+        <activity
+            android:name="criminalintent.android.bignerdranch.com.criminalintent.CategoryActivity"
+            android:parentActivityName="criminalintent.android.bignerdranch.com.criminalintent.PostActivity" />
+        <activity android:name="criminalintent.android.bignerdranch.com.criminalintent.No_Net" />
+        <activity
+            android:name="criminalintent.android.bignerdranch.com.criminalintent.FbCommentsActivity"
+            android:label="@string/title_activity_fb_comments"
+            android:theme="@style/fb" />
+
+        <meta-data
+            android:name="onesignal_app_id"
+            android:value="abbc9591-227f-4b3d-b1fd-63d084a00c7d" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+        <meta-data
+            android:name="onesignal_google_project_number"
+            android:value="str:789244248920" />
+
+        <receiver
+            android:name="com.onesignal.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+
+            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+            <intent-filter android:priority="999" >
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="criminalintent.android.bignerdranch.com.criminalintent" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+
+        <service android:name="com.onesignal.GcmIntentService" /> <!-- For Android O -->
+        <service
+            android:name="com.onesignal.GcmIntentJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.SyncJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.RestoreJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.onesignal.RestoreKickoffJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- END - For Android O -->
+        <service android:name="com.onesignal.SyncService" />
+
+        <activity
+            android:name="com.onesignal.PermissionsActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service android:name="com.onesignal.NotificationRestoreService" />
+
+        <receiver android:name="com.onesignal.BootUpReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_BOOT_COMPLETED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.onesignal.UpgradeReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="criminalintent.android.bignerdranch.com.criminalintent.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

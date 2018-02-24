@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_action_name.png",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/drawable-xxhdpi/abc_ic_action_name.png"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_clear_material.png",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/drawable-xxhdpi/abc_ic_clear_material.png"
+    },
+    {
+        "merged": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_search_api_material.png",
+        "source": "/home/reldi/Desktop/OLD/C/V1.test.she - 23/app/src/main/res/drawable-xxhdpi/abc_ic_search_api_material.png"
+    }
+]
